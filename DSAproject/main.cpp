@@ -28,6 +28,7 @@ int main()
 		{
 			admin();
 		}
+		//should use else if condition after first if, to avoid code complexity and to make it more optimize
 		if (condition == 2)
 		{
 
