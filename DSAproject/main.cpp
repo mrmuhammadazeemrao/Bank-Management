@@ -19,6 +19,7 @@ int main()
 	int condition=0;
 	while (condition != 4)
 	{
+		//one more comment
 		cout << "YOU want to login as:\t\t\t\t\t\t" << endl << endl;
 		cout << "1-ADMIN" << endl;
 		cout << "2-STAFF" << endl;
