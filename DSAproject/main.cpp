@@ -7,6 +7,7 @@
 
 void boot()
 {
+	//Janu ma na b T-Shirt leni ha
 	Hashtable H;
 	BST_Tree T;
 	H.starthash();
